@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645256064408",
+    "project_id": "notchyy-e5984",
+    "storage_bucket": "notchyy-e5984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645256064408:android:722403c3c1ed62d8fc4fed",
+        "android_client_info": {
+          "package_name": "com.app.notch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645256064408-8vi90fjcib9e8oupl5te42qhfcjtv1je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_q_u6zjNEb8V-_KYLoe1pTod8HFeRBD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645256064408-8vi90fjcib9e8oupl5te42qhfcjtv1je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
