@@ -12,7 +12,7 @@ public class Constant {
 
     /* [ IMPORTANT ] be careful when edit this security code */
     /* This string must be same with security code at Server, if its different android unable to submit data */
-    public static final String SECURITY_CODE = "U95w8iazFYkMPfZ92RPhrTUiGT47dxj1cmBnlnowqarqmewrwt8ytBd2gvEGlold4vfdHqPXRgnP6FelzNR55mZeGNH4RYz7xUtH";
+    public static final String SECURITY_CODE = "ljqxrcHxgldmQsTxr4YiZAm2O5wWO8H77yxdizYHnJtmtCN5sA";
 
     // Edit with your app portfolio
     public static String MORE_APP_URL = "http://bbamoula.ml/";
