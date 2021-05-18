@@ -1,9 +1,8 @@
 <resources>
 
-    <string name="app_name">Notch</string>
+    <string name="app_name">ReNews</string>
 
-    <string name="content_about">Notch is an android news application.
-        \nThis is demo for item on Envato
+    <string name="content_about">ReNews is an android news application.
     </string>
 
     <!--ADMOB property -->
@@ -13,12 +12,12 @@
 
     <!--GDPR property -->
     <string name="publisher_id">pub-XXXXXXXXXXXXXXXX</string>
-    <string name="privacy_policy_url">http://dream-space.web.id/</string>
+    <string name="privacy_policy_url"></string>
 
     <string name="share_text">
         Read News \'%1$s\'%n
         Using app \'%2$s\'%n
-        http://play.google.com/store/apps/details?id=com.app.notch
+        http://google.com/
     </string>
 
     <!--=========================================================================================-->
