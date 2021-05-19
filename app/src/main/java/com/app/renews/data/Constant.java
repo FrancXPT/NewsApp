@@ -7,15 +7,14 @@ public class Constant {
      */
 
     // Edit WEB_URL with your url. Make sure you have backslash('/') in the end url
-//    public static String WEB_URL = "http://demo.dream-space.web.id/notch_panel/";
-    public static String WEB_URL = "http://bbamoula.ml/";
+    public static String WEB_URL = "https://re-news.ga/";
 
     /* [ IMPORTANT ] be careful when edit this security code */
     /* This string must be same with security code at Server, if its different android unable to submit data */
     public static final String SECURITY_CODE = "ljqxrcHxgldmQsTxr4YiZAm2O5wWO8H77yxdizYHnJtmtCN5sA";
 
     // Edit with your app portfolio
-    public static String MORE_APP_URL = "http://bbamoula.ml/";
+    public static String MORE_APP_URL = "https://re-news.ga/";
 
     // this limit value used for give pagination (request and display) to decrease payload
 
